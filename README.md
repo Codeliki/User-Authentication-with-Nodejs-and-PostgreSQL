@@ -6,4 +6,4 @@ In this project I've used: <br>
 -- Express-session- To store session details in a session cookie object <br>
 -- Express-flash- To display flash messages to the user <br>
 -- Passport- To authenticate users <br>
--- Passport-Local- To implement a local authentication strategy for our application.  <br>
+-- Passport-Local- To implement a local authentication strategy for the application.  <br>
